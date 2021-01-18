@@ -86,6 +86,10 @@ Agora pra fazer o deploy vamos utilizar os comandos:
   cf push -f gen/srv
 
 
+pra que o link fique disponível é necessário iniciar o hana no hana cloud e iniciar as instancias no cockpit.
+
+se esses pontos estiverem ativos, podemos acessar esse CAP pela url:
+capui5posto-srv.cfapps.eu10.hana.ondemand.com
 
 
 
